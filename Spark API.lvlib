@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*?!!!*Q(C=\&gt;5R&lt;NN!%)8BZS"&amp;E%YX-!18,N*.YT;!'J=O&gt;)!U=Q7V[M1L4*]UOI+/E,G#?F?[!PXP;CD,A'-V-:,#J*?7XO\/@C98N.30,^*HD:?/LW]?R`\8BIX0`?0J[Z`\JS,N-L:L`XV?@[S"YT2J'F\FJAFD$2N@V+`_[@*S`L&amp;_L8`K@V\`$0TKX`^7`Y6$(]@(]7_0^=6._OZ\^ELN252,7N#=:GJ,D5G?Z%G?Z%G?Z%%?Z%%?Z%%?Z%\OZ%\OZ%\OZ%:OZ%:OZ%:OZ0UE&amp;\H)21YJ74R:+#G;&amp;%A'1V&amp;S34S**`%E(LYK]33?R*.Y%A^$F(A34_**0)G(;5I]C3@R**\%1[EOS8[3YUE]F&amp;@A#4S"*`!%(J:5Y!E!Q7*"Y;!)$!7&gt;Q9@!%XA#$R]6?!*0Y!E]A9&gt;O":\!%XA#4_"B3L]LU48N*-&gt;$'4E?R_.Y()`DI&lt;1=D_.R0)\(]&lt;#=()`D=2$/AEZR#()G/1/=,Y\(]@",DM@R/"\(YXDI[E`)_ZVJGH;3YT%]BM@Q'"\$1QE:(M.D?!S0Y;'M$)`B-4S'R`#QF!S0Y4%]"M29F/6F&amp;$-G'I/-Q0$QUX?,^;=587,^F'LTKD;F;L/J.J&amp;K=[A?OOJBKB[3[O;L&lt;KLK:KFOAOK05[&amp;6'.5CKMFNI!Z=^\1&gt;&lt;5M&lt;;#P;EL;AT7GT.P5P$TQ=$NLP^^LN&gt;NJONRK'1;P63MPF5IP&amp;1P0Z8,0:\01;O/9]P2#/\[5VHT@3^W&amp;.O`N^P\HZ^L$__@BD_(8\M,F\P&amp;^@[[KV&gt;`J@_B_]'`6*ZX7Z2U]'D(-&amp;!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+<Library LVVersion="14008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*?!!!*Q(C=\&gt;5R&lt;NN!%)8BZS"&amp;E%YX-!18,N*.YT;!'J=O&gt;)!U=Q7V[M1L4*]UOI+/E,G#?F?[!PXP;CD,A'-V-:,#J*?7XO\/@C98N.30,^*HD:?/LW]?R`\8BIX0`?0J[Z`\JS,N-L:L`XV?@[S"YT2J'F\FJAFD$2N@V+`_[@*S`L&amp;_L8`K@V\`$0TKX`^7`Y6$(]@(]7_0^=6._OZ\^ELN252,7N#=:GJ,D5G?Z%G?Z%G?Z%%?Z%%?Z%%?Z%\OZ%\OZ%\OZ%:OZ%:OZ%:OZ0UE&amp;\H)21YJ74R:+#G;&amp;%A'1V&amp;S34S**`%E(LYK]33?R*.Y%A^$F(A34_**0)G(;5I]C3@R**\%1[EOS8[3YUE]F&amp;@A#4S"*`!%(J:5Y!E!Q7*"Y;!)$!7&gt;Q9@!%XA#$R]6?!*0Y!E]A9&gt;O":\!%XA#4_"B3L]LU48N*-&gt;$'4E?R_.Y()`DI&lt;1=D_.R0)\(]&lt;#=()`D=2$/AEZR#()G/1/=,Y\(]@",DM@R/"\(YXDI[E`)_ZVJGH;3YT%]BM@Q'"\$1QE:(M.D?!S0Y;'M$)`B-4S'R`#QF!S0Y4%]"M29F/6F&amp;$-G'I/-Q0$QUX?,^;=587,^F'LTKD;F;L/J.J&amp;K=[A?OOJBKB[3[O;L&lt;KLK:KFOAOK05[&amp;6'.5CKMFNI!Z=^\1&gt;&lt;5M&lt;;#P;EL;AT7GT.P5P$TQ=$NLP^^LN&gt;NJONRK'1;P63MPF5IP&amp;1P0Z8,0:\01;O/9]P2#/\[5VHT@3^W&amp;.O`N^P\HZ^L$__@BD_(8\M,F\P&amp;^@[[KV&gt;`J@_B_]'`6*ZX7Z2U]'D(-&amp;!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -24,6 +24,7 @@
 		<Item Name="Read Variable (Integer).vi" Type="VI" URL="../Read Variable (Integer).vi"/>
 		<Item Name="Read Variable (String).vi" Type="VI" URL="../Read Variable (String).vi"/>
 		<Item Name="Read Variable Core.vi" Type="VI" URL="../Read Variable Core.vi"/>
+		<Item Name="Username Prompt.vi" Type="VI" URL="../Username Prompt.vi"/>
 	</Item>
 	<Item Name="Open Connection.vi" Type="VI" URL="../Open Connection.vi"/>
 	<Item Name="Call Function.vi" Type="VI" URL="../Call Function.vi"/>
