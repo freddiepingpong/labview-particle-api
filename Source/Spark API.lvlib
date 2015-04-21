@@ -13,21 +13,26 @@
 		<Item Name="Function Response JSON.ctl" Type="VI" URL="../Controls/Function Response JSON.ctl"/>
 		<Item Name="Query Error JSON.ctl" Type="VI" URL="../Controls/Query Error JSON.ctl"/>
 		<Item Name="Spark Reference.ctl" Type="VI" URL="../Controls/Spark Reference.ctl"/>
+		<Item Name="Token Response JSON.ctl" Type="VI" URL="../Controls/Token Response JSON.ctl"/>
 	</Item>
 	<Item Name="Support" Type="Folder">
-		<Item Name="base64_fast_encode.vi" Type="VI" URL="../base64_fast_encode.vi"/>
-		<Item Name="Core Chooser.vi" Type="VI" URL="../Core Chooser.vi"/>
-		<Item Name="JSON Error to Error Cluster.vi" Type="VI" URL="../JSON Error to Error Cluster.vi"/>
-		<Item Name="Read Access Token.vi" Type="VI" URL="../Read Access Token.vi"/>
-		<Item Name="Read Variable (Boolean).vi" Type="VI" URL="../Read Variable (Boolean).vi"/>
-		<Item Name="Read Variable (Double).vi" Type="VI" URL="../Read Variable (Double).vi"/>
-		<Item Name="Read Variable (Integer).vi" Type="VI" URL="../Read Variable (Integer).vi"/>
-		<Item Name="Read Variable (String).vi" Type="VI" URL="../Read Variable (String).vi"/>
-		<Item Name="Read Variable Core.vi" Type="VI" URL="../Read Variable Core.vi"/>
-		<Item Name="Username Prompt.vi" Type="VI" URL="../Username Prompt.vi"/>
+		<Item Name="Request New Token with Login Credentials.vi" Type="VI" URL="../Support/Request New Token with Login Credentials.vi"/>
+		<Item Name="base64_fast_encode.vi" Type="VI" URL="../Support/base64_fast_encode.vi"/>
+		<Item Name="Core Chooser.vi" Type="VI" URL="../Support/Core Chooser.vi"/>
+		<Item Name="JSON Error to Error Cluster.vi" Type="VI" URL="../Support/JSON Error to Error Cluster.vi"/>
+		<Item Name="Read Access Token.vi" Type="VI" URL="../Support/Read Access Token.vi"/>
+		<Item Name="Read Variable (Boolean).vi" Type="VI" URL="../Support/Read Variable (Boolean).vi"/>
+		<Item Name="Read Variable (Double).vi" Type="VI" URL="../Support/Read Variable (Double).vi"/>
+		<Item Name="Read Variable (Integer).vi" Type="VI" URL="../Support/Read Variable (Integer).vi"/>
+		<Item Name="Read Variable (String).vi" Type="VI" URL="../Support/Read Variable (String).vi"/>
+		<Item Name="Read Variable Core.vi" Type="VI" URL="../Support/Read Variable Core.vi"/>
+		<Item Name="Username Prompt.vi" Type="VI" URL="../Support/Username Prompt.vi"/>
 	</Item>
 	<Item Name="Open Connection.vi" Type="VI" URL="../Open Connection.vi"/>
 	<Item Name="Call Function.vi" Type="VI" URL="../Call Function.vi"/>
 	<Item Name="Read Variable.vi" Type="VI" URL="../Read Variable.vi"/>
 	<Item Name="Flash Firmware.vi" Type="VI" URL="../Flash Firmware.vi"/>
+	<Item Name="List Devices.vi" Type="VI" URL="../List Devices.vi"/>
+	<Item Name="Device Information.vi" Type="VI" URL="../Device Information.vi"/>
+	<Item Name="Claim Core.vi" Type="VI" URL="../Claim Core.vi"/>
 </Library>
